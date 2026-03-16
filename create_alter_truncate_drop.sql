@@ -45,4 +45,11 @@
 --     WHERE PETSALE.PET = PET.ANIMAL
 -- );
 
-SELECT * FROM PETSALE;
+-- SELECT * FROM PETSALE;
+-- ---------------------------------------
+
+-- ALTER TABLE PETSALE
+-- DROP COLUMN PROFIT;
+
+-- SELECT * FROM PETSALE;
+-- ---------------------------------------
