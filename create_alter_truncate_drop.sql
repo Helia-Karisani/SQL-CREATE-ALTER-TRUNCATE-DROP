@@ -27,5 +27,14 @@
 --  (2,'Dog',4),
 --  (3,'Hamster',2);
 
+-- SELECT * FROM PETSALE;
+-- SELECT * FROM PET;
+-- ---------------------------------------
+
+-- ALTER TABLE PETSALE
+-- ADD COLUMN QUANTITY INTEGER;
+
 SELECT * FROM PETSALE;
-SELECT * FROM PET;
+
+-- ---------------------------------------
+
