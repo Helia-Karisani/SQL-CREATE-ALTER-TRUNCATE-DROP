@@ -284,5 +284,3 @@ table1.jpg
 
 
 
-SQL lab implementation using MySQL and Visual Studio Code.
-```
