@@ -1,5 +1,5 @@
 
-# SQL Lab — CREATE, ALTER, TRUNCATE, DROP (MySQL + VS Code)
+# SQL Lab, CREATE, ALTER, TRUNCATE, DROP (MySQL + VS Code)
 
 This repository demonstrates basic SQL Data Definition Language (DDL) operations using **MySQL** and **Visual Studio Code**.
 
